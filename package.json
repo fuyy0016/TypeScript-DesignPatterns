@@ -1,0 +1,26 @@
+{
+  "name": "typescript-designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuyy0016/TypeScript-DesignPatterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fuyy0016/TypeScript-DesignPatterns/issues"
+  },
+  "homepage": "https://github.com/fuyy0016/TypeScript-DesignPatterns#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}
